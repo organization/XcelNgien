@@ -32,4 +32,4 @@ commands:
   sgw:
     description: "Sets a game world."
     usage: "/sgw [Game Name] [World Folder Name]"
-    permission: gcf.grank
+    permission: xcel.sgw
